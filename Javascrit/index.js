@@ -1,0 +1,15 @@
+/* 
+https://www.thatjsdude.com/interview/js2.html
+https://tsh.io/blog/frontend-interview-questions/
+https://www.fullstack.cafe/blog/front-end-developer-interview-questions
+https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html
+https://leetcode.com/discuss/interview-experience/142511/google-front-end-engineer-from-phone-to-onstage-interview-2017-2018
+https://www.careercup.com/page?pid=front-end-software-engineer-interview-questions
+https://www.reddit.com/r/cscareerquestions/comments/20i0jw/front_end_software_engineer_for_google_interview/
+https://www.teamblind.com/post/Google-front-end-interview-KEfYdWqG
+https://www.glassdoor.co.in/Interview/Google-Front-End-Software-Engineer-Interview-Questions-EI_IE9079.0,6_KO7,34.htm
+https://github.com/sudheerj/reactjs-interview-questions
+https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
+https://www.codingame.com/work/javascript-interview-questions/
+https://www.fullstack.cafe/blog/javascript-code-interview-questions
+*/
